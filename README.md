@@ -69,11 +69,11 @@ The dataset contains **1,000 employee records** with **26 features**, categorize
 ### **Model Performance (ROC-AUC Scores)**
 | Model | ROC-AUC Score |
 |--------|--------------|
-| Logistic Regression | 0.693 |
-| KNN | 0.954 |
+| Logistic Regression | 0.694 |
+| KNN | 0.955 |
 | Decision Tree | 0.799 |
-| Random Forest | 0.946 |
-| XGBoost | 0.937 |
+| Random Forest | 0.947 |
+| XGBoost | 0.938 |
 
 ### **Best Performing Models**
 #### ✅ **K-Nearest Neighbors (KNN)**
